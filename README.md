@@ -1,2 +1,5 @@
 # hello-world
-repository
+
+Hows it goin my guys
+
+I'm 74NG0
